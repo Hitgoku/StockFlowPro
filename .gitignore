@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+venv/
+
+# Database credentials
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
